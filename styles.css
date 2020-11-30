@@ -1,0 +1,15 @@
+.diagram {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    background-color: lightsteelblue;
+}
+
+.diagram img {
+    display: block;
+    margin-bottom: 30px;
+    background-color: white;
+    border: solid 1px darkslategray;
+}
